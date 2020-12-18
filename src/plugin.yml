@@ -1,0 +1,10 @@
+name: ETHVerse
+version: 1.0
+author: ETHVERSE
+main: org.ethverse.api.Main
+description: ETHVerse Minecraft Plugin
+
+commands:
+  ethv:
+    description: Ethverse Official Plugin
+    aliases: [e, ethverse]
